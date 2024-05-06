@@ -5,10 +5,8 @@ def sum(a,b):
 
 print(sum(28,98))
 
-name = input("Enter Ur Name! \n")
+print('I Add One line')
+print("Add another Li_codene")
+print("I Learning Coding python Django")
 
-try:
-    if int(name) // int(name) == 1:
-        print('Number is Not Allowed !!')
-except:
-    print(f"Hillo {name.capitalize()}")
+print('hilo')
